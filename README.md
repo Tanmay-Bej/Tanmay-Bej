@@ -1,4 +1,4 @@
-![Banner](3c617172-12a2-45ec-8921-83031659a979.png)
+![Banner](3b4a8143-6a14-49ce-9aa3-f2060014cca2.png)
 
 <h1 align="center">Tanmay Bej</h1>
 <p align="center">

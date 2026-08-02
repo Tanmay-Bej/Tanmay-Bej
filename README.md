@@ -45,9 +45,8 @@ I am a Full Stack Developer specializing in building scalable, secure, and high-
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Bej&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Bej&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
-
 ---
 
 ## Contact

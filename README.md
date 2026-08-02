@@ -1,34 +1,61 @@
 ![Banner](3c617172-12a2-45ec-8921-83031659a979.png)
 
-# 👋 Hi, I'm Tanmay Bej
-
-💻 **Full Stack Developer**  
-🚀 Passionate about building scalable web applications  
-🔥 Focused on clean code & modern UI  
-
----
-
-## 🛠️ Tech Stack
-- ⚡ PHP | Laravel  
-- 🌐 HTML | CSS | JavaScript  
-- 🎨 Bootstrap  
-- 🗄️ MySQL  
+<h1 align="center">Tanmay Bej</h1>
+<p align="center">
+  Full Stack Developer | Laravel Specialist
+</p>
 
 ---
 
-## 🚀 What I Do
-- Build dynamic & responsive websites  
-- Develop backend systems using Laravel  
-- Create clean and maintainable code  
-- Solve real-world problems with technology  
+## About
+I am a Full Stack Developer specializing in building scalable, secure, and high-performance web applications. I focus on writing clean, maintainable code and delivering efficient solutions using modern development practices.
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: papaipei6@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/tanmay-bej/  
+## Technical Skills
+
+**Backend**
+- PHP
+- Laravel
+
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+**Database**
+- MySQL
+
+**Tools & Version Control**
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## ⚡ Fun Fact
-I love turning ideas into real-world applications 🚀
+## Experience Focus
+- Web application development using Laravel  
+- RESTful API development  
+- Responsive and user-friendly UI implementation  
+- Performance optimization and clean architecture  
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Bej&show_icons=true&theme=default" />
+</p>
+
+---
+
+## Contact
+
+- Email: papaipei6@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/tanmay-bej/
+
+---
+
+## Statement
+Committed to continuous learning and building impactful digital solutions.

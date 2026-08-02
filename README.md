@@ -7,54 +7,55 @@
 
 ---
 
-## About
-I am a Full Stack Developer specializing in building scalable, secure, and high-performance web applications. I focus on writing clean, maintainable code and delivering efficient solutions using modern development practices.
+## Profile Summary
+Full Stack Developer with a focus on building scalable, secure, and maintainable web applications. Experienced in backend development using Laravel and PHP, with strong fundamentals in frontend technologies and database design.
 
 ---
 
-## Technical Skills
+## Core Competencies
 
-**Backend**
+**Backend Development**
 - PHP
-- Laravel
+- Laravel (MVC Architecture, REST APIs)
 
-**Frontend**
+**Frontend Development**
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 
 **Database**
-- MySQL
+- MySQL (Design, Optimization, Queries)
 
-**Tools & Version Control**
-- Git
-- GitHub
+**Tools & Technologies**
+- Git & GitHub
 - VS Code
 
 ---
 
-## Experience Focus
-- Web application development using Laravel  
-- RESTful API development  
-- Responsive and user-friendly UI implementation  
-- Performance optimization and clean architecture  
+## Professional Focus
+- Development of scalable web applications  
+- RESTful API design and integration  
+- Clean code and maintainable architecture  
+- Performance optimization and debugging  
+- Responsive UI implementation  
 
 ---
 
-## GitHub Statistics
+## Selected Strengths
+- Strong problem-solving ability  
+- Attention to code quality and structure  
+- Continuous learning mindset  
+- Ability to translate requirements into working solutions  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Bej&show_icons=true&theme=github_dark&cache_seconds=1800" />
-</p>
 ---
 
-## Contact
+## Contact Information
 
 - Email: papaipei6@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/tanmay-bej/
+- LinkedIn: https://www.linkedin.com/in/tanmay-bej/  
 
 ---
 
-## Statement
-Committed to continuous learning and building impactful digital solutions.
+## Professional Statement
+Focused on delivering reliable and efficient software solutions while continuously improving technical and problem-solving skills.
